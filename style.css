@@ -1,0 +1,85 @@
+
+
+
+.menu_nav {
+    background: #00006E;
+    color: white;
+    height: 70px;
+}
+  
+.border {
+    border-radius: 1px;
+    border-color: black;
+}
+
+.bod-background {
+	background-color: lightsteelblue;
+}
+
+.heavy-brand {
+	background: #72006A;
+	color: whitesmoke;
+	font-weight: bolder;
+	padding: 10px;
+}
+
+.pink-text{
+	color: #72006A;
+	font-weight: bold;
+}
+
+.body-box{
+	background-color: aliceblue;
+	margin-top:50px;
+	margin-bottom: 0px;
+	padding: 30px, 30px, 10px:
+	
+}
+.body-box h2{
+	color: #72006A;
+	font: "alexa-std";
+	font-weight: bold;
+	margin-top:50px;
+	margin-left:10px;
+	max-resolution: 0px;
+	padding-top:20px;
+	padding-left:10px;
+	min-resolution: 200px;
+
+}
+
+#img-size {
+  max-width: 50%;
+  height: auto;
+}
+
+#30-padding {
+	padding: 30px;
+}
+
+.img-size img {
+  width:100% !important;
+  height:auto;
+}
+
+.side-images {
+  width:100% !important;
+  height:100% !important;
+vertical-align: middle;
+	padding:7px;
+	
+	
+}
+
+.para {
+	padding: 20px 20px 10px 20px;
+}
+
+h4 {
+	color: #72006A;
+	font-weight: bold;
+}
+
+@media(max-width: 992px) {
+	
+}
