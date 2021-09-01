@@ -82,16 +82,16 @@ h4 {
 
 @media(max-width: 992px) {
   .navbar-expand-lg {
-  
   }
+	
   .navbar {
     max-height: none;
       }
 	
   .navbar div {
-    margin: inherit;
     background-color: rgb(255,255,255);
   }
+	
   .navbar-brand {
     padding: 10px;
   }
